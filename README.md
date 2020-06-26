@@ -1,2 +1,3 @@
 # 1.-tesztmunk-m
-most tanulom. Ezt először csak tesztelem. 
+
+Most tanulom. Ezt először csak tesztelem.
